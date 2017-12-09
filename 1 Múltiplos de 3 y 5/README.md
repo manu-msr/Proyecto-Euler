@@ -18,14 +18,6 @@ Encontrar la suma de todos los múltiplos de 3 o 5 menores a 1000.
 
 Haskell
 
-### Repositorio
-
-Para obtener este código se puede clonar el repositorio con el siguiente comando:
-
-```shell
-$ git clone https://github.com/manu-msr/Proyecto-Euler.git
-```
-
 ### Ejecución
 
 Se requiere tener instalado haskell (https://www.haskell.org/downloads) y ejecutar:
