@@ -23,5 +23,5 @@ Haskell
 Para obtener este código se puede clonar el repositorio con el siguiente comando:
 
 ```shell
-$ git clone <pendiente>
+$ git clone https://github.com/manu-msr/Proyecto-Euler.git
 ```
