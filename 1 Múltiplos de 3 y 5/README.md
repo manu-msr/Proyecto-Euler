@@ -20,7 +20,7 @@ Haskell
 
 ### Ejecución
 
-Se requiere tener instalado haskell (https://www.haskell.org/downloads) y ejecutar:
+Se requiere tener instalado Haskell (https://www.haskell.org/downloads) y ejecutar:
 
 ```shell
 $ ghci Problema1.hs
