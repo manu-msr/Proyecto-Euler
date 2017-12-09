@@ -12,7 +12,7 @@ Encontrar la suma de todos los múltiplos de 3 o 5 menores a 1000.
 
 ### Solución
 
-Pendiente.
+233168
 
 ### Lenguaje de Programación
 
@@ -24,4 +24,14 @@ Para obtener este código se puede clonar el repositorio con el siguiente comand
 
 ```shell
 $ git clone https://github.com/manu-msr/Proyecto-Euler.git
+```
+
+### Ejecución
+
+Se requiere tener instalado haskell (https://www.haskell.org/downloads) y ejecutar:
+
+```shell
+$ ghci Problema1.hs
+*Problema1> solucion
+233168
 ```
