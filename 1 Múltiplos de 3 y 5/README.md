@@ -33,5 +33,4 @@ Se requiere tener instalado haskell (https://www.haskell.org/downloads) y ejecut
 ```shell
 $ ghci Problema1.hs
 *Problema1> solucion
-233168
 ```
