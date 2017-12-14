@@ -12,10 +12,11 @@ primeros diez elementos de la sucesión son:
 1, 2, 3, 5, 8, 13, 21, 34, 55, 80, ...
 
 Considerando los términos de la sucesión de Fibonacci menores a cuatro millones, encontrar la suma de los términos de la
+sucesion que sean pares.
 
 ### Solución
 
-...
+233168
 
 ### Lenguaje de Programación
 
