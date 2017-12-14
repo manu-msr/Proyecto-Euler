@@ -21,6 +21,8 @@
             resultado]
          [else busqueda])))
 
+;; Suma los números pares de la sucesión de Fibonacci menores a cuatro millones.
+;; solucion: number
 (define (solucion)
    (letrec (
       [genera-siguiente (lambda (fib)
