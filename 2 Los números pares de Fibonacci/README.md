@@ -16,7 +16,7 @@ sucesion que sean pares.
 
 ### Solución
 
-233168
+4613732
 
 ### Lenguaje de Programación
 
@@ -29,5 +29,5 @@ Se requiere tener instalado DrRacket (https://download.racket-lang.org/) y ejecu
 ```shell
 $ racket
 > (enter! "problema2.rkt")
-problema2> solucion 
+"problema2.rtk"> solucion 
 ```
